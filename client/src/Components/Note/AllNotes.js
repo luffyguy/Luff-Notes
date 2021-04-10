@@ -56,7 +56,7 @@ export const AllNotes = ()=>{
       }
 
     return(<div >
-        <h1>ALL NOTES</h1>
+        <h1>Your Notes</h1>
         {/* <ul className="list"> */}
             
             {data.map((notes)=>(
