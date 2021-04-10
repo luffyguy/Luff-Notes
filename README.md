@@ -1,5 +1,5 @@
 # Luff-Notes
-<img src=""/>
+<img src="https://i.imgur.com/nEH25nJ.png"/>
 
 ## Tech used
 ```
